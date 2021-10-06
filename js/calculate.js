@@ -35,3 +35,9 @@ function calculateLove(yourName, yourAge, partnerName, partnerAge, e) {
     e.preventDefault();
     $('#redraw').hide().show(0);
 }
+
+// Eveen Odd calculator -
+
+if(number % 2 == 0) {
+    console.log("The number is even.");
+}
