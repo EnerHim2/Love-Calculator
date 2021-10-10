@@ -1,8 +1,8 @@
 function calculateLove(yourName, yourAge, partnerName, partnerAge, e) {
     lovePercent = Math.floor(Math.random() * 101);
 
-    if (yourName == "Ajay Kale" && partnerName == "Aarya Wadgaonkar") {
-        lovePercent = 100
+    if (yourName == "Jash Bakshi" && partnerName == "Krut Patel") {
+        lovePercent = 97
     }
 
     function animateElements() {
